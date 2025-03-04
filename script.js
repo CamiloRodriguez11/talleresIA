@@ -25,7 +25,7 @@ talleres.forEach((taller, index) => {
         
         const link = document.createElement("a");
         link.href = taller.rsuelto;
-        link.textContent = `${taller.titulo} - Resuelto`;
+        link.textContent = `${taller.titulo} - resuelto`;
         link.target = "_blank";
         
         const iframe = document.createElement("iframe");
