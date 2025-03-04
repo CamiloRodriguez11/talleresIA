@@ -24,8 +24,8 @@ talleres.forEach((taller, index) => {
         div.classList.add("file-card");
         
         const link = document.createElement("a");
-        link.href = taller.rsuelto;
-        link.textContent = `${taller.titulo} - resuelto`;
+        link.href = taller.resuelto;
+        link.textContent = `${taller.titulo} - Resuelto`;
         link.target = "_blank";
         
         const iframe = document.createElement("iframe");
