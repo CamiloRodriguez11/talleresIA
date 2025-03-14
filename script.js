@@ -3,6 +3,7 @@ const talleres = [
     { titulo: "TALLER 1 - Historia y creacion de la inteligencia artificial", original: "archivos/taller1.pdf", resuelto: "archivos/taller1resuelto.pdf" },
     { titulo: "TALLER 2 - Tipologias de inteligencia artificial", original: "archivos/taller2.pdf", resuelto: "archivos/taller2resuelto.pdf" },
     { titulo: "TALLER 3 - Juegos de IA, Juego #3", original: "archivos/taller3.pdf", resuelto: "archivos/juego3.pdf", diapositivas:"archivos/juego3diapositivas.pdf" },
+    { titulo: "Parcial - Problema del viajero", resuelto: "archivos/PARCIAL.pdf"}
 ];
 
 
